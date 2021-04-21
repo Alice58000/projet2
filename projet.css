@@ -204,7 +204,7 @@ h3 {
     font-size: 40px;
     text-align: center;
     margin-left: 50px;
-    text-shadow: 3px 3px;
+    text-shadow: 1px 1px 1px white;
 }
 .responsive {
     display: flex;
@@ -936,7 +936,7 @@ h3 {
     text-align: center;
     color:black;
     font-weight: bold;
-    text-shadow: 0.1em 0.1em;
+    text-shadow: 1px 1px 1px white;
 }
 
 .actualite {
